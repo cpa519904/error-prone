@@ -1,3 +1,5 @@
+error-prone 用来抓取 Java 编译时的错误。通常使用编译器只能做静态类型的检查。但使用此工具，能够进行编译器的类型分析，能够检测并抓取到编译过程中的 Bug，能够大大的节约开发者的时间。
+
 # Error Prone
 
 Error Prone is a static analysis tool for Java that catches common programming
